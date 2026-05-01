@@ -158,7 +158,7 @@ Reason:
 ## 👤 User Provisioning
 
 ### WordPress Users List
-![WP Users List](screenshots/18-wp-users-list.png)
+![WP Users List](Word-Press-User-list.png)
 
 **Test User Used:**  
 - Name: **James Thomas**  
