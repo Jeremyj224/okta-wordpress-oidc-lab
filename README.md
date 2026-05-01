@@ -50,7 +50,7 @@ User → WordPress → Okta → WordPress
 ![WordPress Download](screenshots/01-wordpress-download.png)
 
 ### 1.2 Create Local Site (LocalWP)
-![LocalWP Overview](screenshots/02-localwp-overview.png)
+![LocalWP Overview](screenshots/02-localwp-site-overview.png)
 
 ### 1.3 WordPress Admin (Local Admin Account)
 ![WP Admin Local Admin](screenshots/03-wp-admin-local-admin.png)
