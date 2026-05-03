@@ -120,7 +120,7 @@ Mappings used:
 ![test user okta dashboard](screenshots/testuser-okta-dashboard.png)
 
 ### 5.2 WordPress Login Page
-![wordpress login page](screenshots/wp-login-page.png)
+![wordpress login page](screenshots/wordpress-login-page.png)
 
 ## 5.3 Test User WordPress Front end Page (After SSO login)
 ![test user front end page after login](screenshots/test-user-front-end-page-after-login.png)
