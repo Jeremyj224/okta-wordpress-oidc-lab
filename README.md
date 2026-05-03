@@ -55,10 +55,7 @@ User → WordPress → Okta → WordPress
 ### 1.3 WordPress Admin (Local Admin Account)
 ![WP Admin Local Admin](screenshots/03-wp-admin-local-admin.png)
 
-### 1.4 WordPress Admin (Okta-Provisioned User)
-![WP Admin Okta User](screenshots/04-wp-admin-okta-user.png)
-
-### 1.5 WordPress Frontend Blog View
+### 1.4 WordPress Frontend Blog View
 ![WP Blog View](screenshots/05-wp-blog-view.png)
 
 ---
@@ -122,11 +119,16 @@ Mappings used:
 
 ## 5. SSO Flow
 
-### 5.1 WordPress Login Page
+### 5.1 Okta User Dashboard (Assigned App)
+![Okta User Dashboard](screenshots/17-okta-user-dashboard.png)
+
+### 5.2 WordPress Login Page
 ![WP Login Page](screenshots/16-wp-login-page.png)
 
-### 5.2 Okta User Dashboard (Assigned App)
-![Okta User Dashboard](screenshots/17-okta-user-dashboard.png)
+## 5.3 Test User WordPress Dashboard Pages (After SSO login)
+![test user front end page after login](screenshots/test-user-front-end-page-after-login.png)
+
+
 
 ---
 
