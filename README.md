@@ -55,40 +55,37 @@ User → WordPress → Okta → WordPress
 ### 1.3 WordPress Admin (Local Admin Account)
 ![WP Admin Local Admin](screenshots/03-wp-admin-local-admin.png)
 
-### 1.4 WordPress Frontend Blog View
-![WP Blog View](screenshots/05-wp-blog-view.png)
-
 ---
 
 ## 2. Okta OIDC Application Setup
 
 ### 2.1 General Settings
-![Okta App General Settings](screenshots/06-okta-app-general-settings.png)
+![Okta App General Settings](screenshots/05-okta-app-general-settings.png)
 
 ### 2.2 Client Credentials
-![Okta Client Credentials](screenshots/07-okta-client-credentials.png)
+![Okta Client Credentials](screenshots/06-okta-client-credentials.png)
 
 ### 2.3 Client Secret
-![Okta Client Secret](screenshots/08-okta-client-secret.png)
+![Okta Client Secret](screenshots/07-okta-client-secret.png)
 
 ### 2.4 Grant Types
 ![Okta Grant Types](screenshots/09-okta-app-grant-types.png)
 
 ### 2.5 Login Settings
-![Okta Login Settings](screenshots/10-okta-login-settings.png)
+![Okta Login Settings](screenshots/08-okta-login-settings.png)
 
 ### 2.6 Group Assignment (Executives)
-![Okta Assignments](screenshots/11-okta-assignments.png)
+![Okta Assignments](screenshots/09-okta-assignments.png)
 
 ---
 
 ## 3. Okta Authorization Server
 
 ### 3.1 Authorization Server Settings
-![Okta Auth Server Settings](screenshots/12-okta-auth-server-settings.png)
+![Okta API Auth Server Settings](screenshots/10-okta-apiauth-server-settings.png)
 
 ### 3.2 Claims Configuration
-![Okta Claims](screenshots/13-okta-claims.png)
+![Okta Claims](screenshots/11-okta-claims.png)
 
 Claims added:
 
@@ -103,10 +100,10 @@ Claims added:
 ## 4. miniOrange Plugin Configuration
 
 ### 4.1 OAuth Provider Setup
-![miniOrange OAuth Config](screenshots/14-miniorange-oauth-config.png)
+![mini organge oauth config](screenshots/12-miniorange-oauth-config.png)
 
 ### 4.2 Attribute Mapping
-![miniOrange Attribute Mapping](screenshots/15-miniorange-attribute-mapping.png)
+![mini orange attribute mappings](screenshots/13-miniorange-attribute-mapping.png)
 
 Mappings used:
 
@@ -120,13 +117,16 @@ Mappings used:
 ## 5. SSO Flow
 
 ### 5.1 Okta User Dashboard (Assigned App)
-![Okta User Dashboard](screenshots/17-okta-user-dashboard.png)
+![test user okta dashboard](screenshots/testuser-okta-dashboard.png)
 
 ### 5.2 WordPress Login Page
-![WP Login Page](screenshots/16-wp-login-page.png)
+![wordpress login page](screenshots/wp-login-page.png)
 
-## 5.3 Test User WordPress Dashboard Pages (After SSO login)
+## 5.3 Test User WordPress Front end Page (After SSO login)
 ![test user front end page after login](screenshots/test-user-front-end-page-after-login.png)
+
+## 5.4 Test User Admin Dashboard 
+![test user dashboard after login](screenshots/test-user-dashboard-after-login.png)
 
 
 
